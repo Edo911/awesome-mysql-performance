@@ -28,9 +28,11 @@
 - [Tuning innodb_buffer_pool_size](https://releem.com/docs/mysql-performance-tuning/innodb_buffer_pool_size)
 - [Innodb_buffer_pool_size – Is 80% of RAM the right amount?](https://www.percona.com/blog/2015/06/02/80-ram-tune-innodb_buffer_pool_size/)
 - [Is InnoDB Buffer Pool big enough?](https://vettabase.com/blog/is-innodb-buffer-pool-big-enough/) and [Can we shrink InnoDB Buffer Pool?](https://vettabase.com/blog/can-we-shrink-innodb-buffer-pool/)
+- [How To Adjust the InnoDB Buffer Pool Size](https://support.sciencelogic.com/s/article/1151)
+- [Video] [How to properly change "innodb_buffer_pool_size" value for mysql?](https://www.youtube.com/watch?v=tr-xg-8sEgg)
 ### innodb_flush_log_at_trx_commit
 - [Tuning innodb_flush_log_at_trx_commit](https://releem.com/docs/mysql-performance-tuning/innodb_flush_log_at_trx_commit)
-- [Is it safe to use innodb_flush_log_at_trx_commit = 2?](https://dba.stackexchange.com/questions/12611/is-it-safe-to-use-innodb-flush-log-at-trx-commit-2)
+- [Video] [MySQL innodb_flush_log_at_trx_commit clarification](https://www.youtube.com/watch?v=05zW-wFXNj8)
 ### innodb_flush_method
 - [Tuning innodb_flush_method](https://releem.com/docs/mysql-performance-tuning/innodb_flush_method)
 - [MySQL (innodb) performance tuning](https://www.ilsistemista.net/index.php/linux-a-unix/26-mysql-performance-tuning.html?start=4)
