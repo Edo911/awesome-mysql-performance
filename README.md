@@ -32,13 +32,18 @@
 - [Video] [How to properly change "innodb_buffer_pool_size" value for mysql?](https://www.youtube.com/watch?v=tr-xg-8sEgg)
 ### innodb_flush_log_at_trx_commit
 - [Tuning innodb_flush_log_at_trx_commit](https://releem.com/docs/mysql-performance-tuning/innodb_flush_log_at_trx_commit)
+- [innodb_flush_log_at_trx_commit: Optimizing MySQL](https://linuxblog.io/innodb_flush_method-innodb_flush_log_at_trx_commit-optimizing-mysql/)
 - [Video] [MySQL innodb_flush_log_at_trx_commit clarification](https://www.youtube.com/watch?v=05zW-wFXNj8)
 ### innodb_flush_method
 - [Tuning innodb_flush_method](https://releem.com/docs/mysql-performance-tuning/innodb_flush_method)
 - [MySQL (innodb) performance tuning](https://www.ilsistemista.net/index.php/linux-a-unix/26-mysql-performance-tuning.html?start=4)
+- [Configuring innodb_flush_method system variable for InnoDB performance](https://minervadb.xyz/configuring-innodb_flush_method-system-variable-for-innodb-performance/)
+- [innodb_flush_method: Optimizing MySQL](https://linuxblog.io/innodb_flush_method-innodb_flush_log_at_trx_commit-optimizing-mysql/)
+- [Video] [Where is the MySQL variable - innodb_flush_method?](https://www.youtube.com/watch?v=8VPh_UHhXcI)
 ### innodb_log_file_size
 - [What is a big innodb_log_file_size?](https://www.percona.com/blog/2016/05/31/what-is-a-big-innodb_log_file_size/)
 - [Tuning innodb_log_file_size](https://releem.com/docs/mysql-performance-tuning/innodb_log_file_size)
+- [Video] [Databases: How to safely change MySQL innodb variable 'innodb_log_file_size'?](https://www.youtube.com/watch?v=zvVIfwZRQTQ&t=9s)
 ### innodb_read_io_threads
 - [Tuning innodb_read_io_threads](https://releem.com/docs/mysql-performance-tuning/innodb_read_io_threads)
 - [How do you tune innodb_read_io_threads?](https://dba.stackexchange.com/questions/299461/how-do-you-tune-innodb-read-io-threads)
@@ -48,6 +53,7 @@
 ### join_buffer_size
 - [Tuning join_buffer_size](https://releem.com/docs/mysql-performance-tuning/join_buffer_size)
 - [Tuning MySQL my.cnf? Avoid this common pitfall!](https://haydenjames.io/my-cnf-tuning-avoid-this-common-pitfall/)
+- [How to set oin_buffer_size in my.cnf file?](https://www.youtube.com/watch?v=XA_6U8Cl3aU)
 ### key_buffer_size
 - [Tuning key_buffer_size](https://releem.com/docs/mysql-performance-tuning/key_buffer_size)
 - [Optimizing key_buffer_size](https://mariadb.com/kb/en/optimizing-key_buffer_size/)
@@ -57,6 +63,7 @@
 ### max_connections
 - [Tuning max_connections](https://releem.com/docs/mysql-performance-tuning/max_connections)
 - [Max Connection Tuning with MariaDB Enterprise Server](https://mariadb.com/docs/skysql/connect/connections/max-connections/es/)
+- [Video] [MySQL : How to increase the MySQL max connections value](https://www.youtube.com/watch?v=tEHzwkgOzAQ&t=2s)
 ### max_heap_table_size
 - [Tuning max_heap_table_size](https://releem.com/docs/mysql-performance-tuning/max_heap_table_size)
 - [Rule of thumb for tmp_table_size and max_heap_table_size MySQL properties](https://dba.stackexchange.com/questions/209411/rule-of-thumb-for-tmp-table-size-and-max-heap-table-size-mysql-properties)
