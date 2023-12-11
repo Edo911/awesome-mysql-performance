@@ -30,6 +30,8 @@
 ### innodb_flush_log_at_trx_commit
 - [Tuning innodb_flush_log_at_trx_commit](https://releem.com/docs/mysql-performance-tuning/innodb_flush_log_at_trx_commit)
 - [Is it safe to use innodb_flush_log_at_trx_commit = 2?](https://dba.stackexchange.com/questions/12611/is-it-safe-to-use-innodb-flush-log-at-trx-commit-2)
+- [Innodb_flush_log_at_trx_commit: Optimizing MySQL](https://linuxblog.io/innodb_flush_method-innodb_flush_log_at_trx_commit-optimizing-mysql/)
+- [Video] [MySQL innodb_flush_log_at_trx_commit clarification](https://www.youtube.com/watch?v=05zW-wFXNj8)
 ### innodb_flush_method
 - [Tuning innodb_flush_method](https://releem.com/docs/mysql-performance-tuning/innodb_flush_method)
 - [MySQL (innodb) performance tuning](https://www.ilsistemista.net/index.php/linux-a-unix/26-mysql-performance-tuning.html?start=4)
