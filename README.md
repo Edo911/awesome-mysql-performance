@@ -106,8 +106,7 @@
 ### query_cache_type
 - [Tuning query_cache_type](https://releem.com/docs/mysql-performance-tuning/query-cache#rec748250544)
 ### query_cache_size
-- [Tuning query_cache_size](https://releem.com/docs/mysql-performance-tuning/query_cache_size)
-- [Limiting the Size of the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#limiting-the-size-of-the-query-cache)
+- [Tuning query_cache_size](https://releem.com/docs/mysql-performance-tuning/query-cache#rec748234339)
 ### query_cache_limit
 - [Tuning query_cache_limit](https://releem.com/docs/mysql-performance-tuning/query_cache_limit)
 - [Limiting the Size of the Query Cache](https://mariadb.com/docs/server/ha-and-performance/optimization-and-tuning/buffers-caches-and-threads/query-cache#limiting-the-size-of-the-query-cache)
