@@ -110,7 +110,7 @@
 ### query_cache_limit
 - [Tuning query_cache_limit](https://releem.com/docs/mysql-performance-tuning/query-cache#rec748257957)
 ### query_cache_min_res_unit
-- [Tuning query_cache_min_res_unit](https://releem.com/docs/mysql-performance-tuning/query_cache_min_res_unit)
+- [Tuning query_cache_min_res_unit](https://releem.com/docs/mysql-performance-tuning/query-cache#rec748234397)
 - [What is the best setting for query_cache_min_res_unit](https://dba.stackexchange.com/questions/42993/mysql-settings-for-query-cache-min-res-unit)
 ### read_rnd_buffer_size
 - [Tuning read_rnd_buffer_size](https://releem.com/docs/mysql-performance-tuning/read_rnd_buffer_size)
