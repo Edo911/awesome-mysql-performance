@@ -100,7 +100,6 @@
 - [Rule of thumb for tmp_table_size and max_heap_table_size MySQL properties](https://dba.stackexchange.com/questions/209411/rule-of-thumb-for-tmp-table-size-and-max-heap-table-size-mysql-properties)
 ### myisam_sort_buffer_size
 - [Tuning myisam_sort_buffer_size](https://releem.com/docs/mysql-performance-tuning/myisam_sort_buffer_size)
-- [Working With MyISAM in MySQL](https://severalnines.com/blog/working-myisam-mysql/)
 ### optimizer_search_depth
 - [Tuning optimizer_search_depth](https://releem.com/docs/mysql-performance-tuning/optimizer_search_depth)
 ### query_cache_type
